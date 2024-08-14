@@ -14,4 +14,6 @@ $ pip install -r requirements.txt
 
 # convert and create .CSV file
 python meta1.py ./Sitzungsprotokolle_orig_docx
+
+# then, open the created mod_delta.csv with your Excel / Numbers / ...
 ```
